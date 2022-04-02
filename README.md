@@ -1,4 +1,4 @@
 #yellow-Нурлан
-#lilsc-Аскар
+#lilac-Аскар
 #green-Динис
 #blue-Нурболот
